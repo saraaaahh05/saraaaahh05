@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on GenAI and ALML projects
+On a journey to master Artificial Intelligence, full stack development and beyond.
 
 
 ## 🌐 Socials:
